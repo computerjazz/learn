@@ -8,7 +8,7 @@
 - [x] [Code: The Hidden Language of Computer Hardware [amazon]](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
 - [ ] [Let's Build a Compiler!](http://compilers.iecc.com/crenshaw/)
 
-### Code
+### Best Practices
 - [x] [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [x] [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=pd_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=J5R0F4PC8XBE3TTZDP6Z)
 
