@@ -14,14 +14,16 @@
 ### Best Practices
 - [x] [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [x] [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=pd_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=J5R0F4PC8XBE3TTZDP6Z)
+- [ ] [Programming Pearls](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
 
 ### Interview Prep
 - [ ] [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=0984782850&pd_rd_r=TJPH4FD1QV5TSGXKJMNH&pd_rd_w=jx4ta&pd_rd_wg=A0Wqa&psc=1&refRID=TJPH4FD1QV5TSGXKJMNH)
 - [ ] [Elements of Programming Interviews](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
+- [ ] [Programming Interviews Exposed](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364/ref=pd_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=AYJYGYBBJQ9DFRY2YZW7)
 
 ### Languages
 #### Javascript
-##### You Don't Know JS
+##### You Don't Know JS (Free online)
 - [x] [Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
 - [x] [this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 - [x] [Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
