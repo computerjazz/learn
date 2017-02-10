@@ -34,6 +34,7 @@
 ## Videos/Courses
 ### Algorithms
 - [x] [Princeton: Algorithms I & II [Coursera]](https://www.coursera.org/learn/algorithms-part1)
+- [ ] [From NAND to Tetris](https://www.coursera.org/learn/build-a-computer)
 
 ## Articles/Blog Posts
 - [ ] [Let's Build a Compiler!](http://compilers.iecc.com/crenshaw/)
