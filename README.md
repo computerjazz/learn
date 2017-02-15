@@ -3,8 +3,10 @@
 ## Books
 
 ### Algortihms & Design Patterns
-- [ ] [Design Patterns: Elements of Reusable Object-Oriented Software (GoF)](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?s=books&ie=UTF8&qid=1486752102&sr=1-1&keywords=design+patterns)
+- [ ] [Algorithms (Textbook for Princeton course)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=sr_1_1?ie=UTF8&qid=1487191473&sr=8-1&keywords=algorithms+sedgewick)
+- [ ] [Introduction to Algorithms (MIT Press)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=sr_1_1?ie=UTF8&qid=1487191546&sr=8-1&keywords=algorithms+MIT)
 - [x] [The Algorithm Design Manual (Skiena)](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693)
+- [ ] [Design Patterns: Elements of Reusable Object-Oriented Software (GoF)](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?s=books&ie=UTF8&qid=1486752102&sr=1-1&keywords=design+patterns)
 - [x] [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
 
 ### Computer Architecture
