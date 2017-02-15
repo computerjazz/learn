@@ -10,7 +10,7 @@
 - [x] [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
 
 ### Computer Architecture
-- [x] [Introduction to Computing Systems: From Bits and Gates to C and Beyond [amazon]](https://www.amazon.com/Introduction-Computing-Systems-Gates-Beyond/dp/0072467509/ref=sr_1_1?s=books&ie=UTF8&qid=1486664659&sr=1-1&keywords=from+bits+to+gates)
+- [x] [Introduction to Computing Systems: From Bits and Gates to C and Beyond](https://www.amazon.com/Introduction-Computing-Systems-Gates-Beyond/dp/0072467509/ref=sr_1_1?s=books&ie=UTF8&qid=1486664659&sr=1-1&keywords=from+bits+to+gates)
 - [x] [Code: The Hidden Language of Computer Hardware](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
 
 ### Best Practices
