@@ -3,13 +3,13 @@
 ## Books
 
 ### Algortihms & Design Patterns
-- [ ] [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?s=books&ie=UTF8&qid=1486752102&sr=1-1&keywords=design+patterns)
-- [x] [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693)
+- [ ] [Design Patterns: Elements of Reusable Object-Oriented Software (GoF)](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?s=books&ie=UTF8&qid=1486752102&sr=1-1&keywords=design+patterns)
+- [x] [The Algorithm Design Manual (Skiena)](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693)
 - [x] [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
 
 ### Computer Architecture
-- [ ] [Introduction to Computing Systems: From Bits and Gates to C and Beyond [amazon]](https://www.amazon.com/Introduction-Computing-Systems-Gates-Beyond/dp/0072467509/ref=sr_1_1?s=books&ie=UTF8&qid=1486664659&sr=1-1&keywords=from+bits+to+gates)
-- [x] [Code: The Hidden Language of Computer Hardware [amazon]](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
+- [x] [Introduction to Computing Systems: From Bits and Gates to C and Beyond [amazon]](https://www.amazon.com/Introduction-Computing-Systems-Gates-Beyond/dp/0072467509/ref=sr_1_1?s=books&ie=UTF8&qid=1486664659&sr=1-1&keywords=from+bits+to+gates)
+- [x] [Code: The Hidden Language of Computer Hardware](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
 
 ### Best Practices
 - [x] [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
@@ -24,7 +24,6 @@
 
 ### Languages
 #### Javascript
-##### You Don't Know JS (Free online)
 - [x] [Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
 - [x] [this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 - [x] [Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
@@ -34,15 +33,12 @@
 #### Java
 - [x] [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208/ref=pd_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=CRZ192X55A2DSC25MA4Q)
 
-## Videos/Courses
-### Algorithms
-- [x] [Princeton: Algorithms I & II [Coursera]](https://www.coursera.org/learn/algorithms-part1)
+## Courses
+- [x] [Princeton: Algorithms I & II](https://www.coursera.org/learn/algorithms-part1)
 - [ ] [From NAND to Tetris](https://www.coursera.org/learn/build-a-computer)
+- [ ] [Harvard: cs50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 ## Articles/Blog Posts
 - [ ] [Programming in the 21st Century](http://prog21.dadgum.com/)
 - [ ] [Let's Build a Compiler!](http://compilers.iecc.com/crenshaw/)
-
-### Misc React/React Native/Redux
-- [x] [Getting Started With Redux (Dan Abramov, Egghead.io)](https://egghead.io/courses/getting-started-with-redux)
-- [ ] [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links)
+- [ ] [React/Redux Links](https://github.com/markerikson/react-redux-links)
