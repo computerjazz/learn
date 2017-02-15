@@ -39,6 +39,7 @@
 - [ ] [From NAND to Tetris](https://www.coursera.org/learn/build-a-computer)
 
 ## Articles/Blog Posts
+- [ ] [Programming in the 21st Century](http://prog21.dadgum.com/)
 - [ ] [Let's Build a Compiler!](http://compilers.iecc.com/crenshaw/)
 
 ### Misc React/React Native/Redux
