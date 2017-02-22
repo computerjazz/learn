@@ -1,17 +1,19 @@
 # CS/Software Dev Learning Resources
 
-## Books
-
 ### Algortihms & Design Patterns
 - [ ] [Algorithms (Princeton)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=sr_1_1?ie=UTF8&qid=1487191473&sr=8-1&keywords=algorithms+sedgewick)
 - [ ] [Introduction to Algorithms (MIT Press)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=sr_1_1?ie=UTF8&qid=1487191546&sr=8-1&keywords=algorithms+MIT)
 - [x] [The Algorithm Design Manual (Skiena)](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693)
 - [ ] [Design Patterns: Elements of Reusable Object-Oriented Software (GoF)](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?s=books&ie=UTF8&qid=1486752102&sr=1-1&keywords=design+patterns)
 - [x] [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
+- [x] [Princeton: Algorithms I & II](https://www.coursera.org/learn/algorithms-part1)
 
-### Computer Architecture
+### Fundamentals & Computer Architecture
 - [x] [Introduction to Computing Systems: From Bits and Gates to C and Beyond](https://www.amazon.com/Introduction-Computing-Systems-Gates-Beyond/dp/0072467509/ref=sr_1_1?s=books&ie=UTF8&qid=1486664659&sr=1-1&keywords=from+bits+to+gates)
 - [x] [Code: The Hidden Language of Computer Hardware](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
+- [ ] [From NAND to Tetris](https://www.coursera.org/learn/build-a-computer)
+- [ ] [Harvard: cs50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+- [ ] [Let's Build a Compiler!](http://compilers.iecc.com/crenshaw/)
 
 ### Best Practices
 - [x] [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
@@ -31,16 +33,12 @@
 - [x] [Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
 - [x] [Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
 - [x] [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
+- [ ] [Learn You Node](https://nodeschool.io/)
+- [ ] [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 
 #### Java
 - [x] [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208/ref=pd_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=CRZ192X55A2DSC25MA4Q)
 
-## Courses
-- [x] [Princeton: Algorithms I & II](https://www.coursera.org/learn/algorithms-part1)
-- [ ] [From NAND to Tetris](https://www.coursera.org/learn/build-a-computer)
-- [ ] [Harvard: cs50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
-
-## Articles/Blog Posts
+## Articles & Blog Posts
 - [ ] [Programming in the 21st Century](http://prog21.dadgum.com/)
-- [ ] [Let's Build a Compiler!](http://compilers.iecc.com/crenshaw/)
 - [ ] [React/Redux Links](https://github.com/markerikson/react-redux-links)
