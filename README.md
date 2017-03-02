@@ -34,7 +34,8 @@
 - [x] [Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
 - [x] [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 - [ ] [Learn You Node](https://nodeschool.io/)
-- [ ] [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
+- [x] [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
+- [x] [understanding this once and for all](https://journeyintojavascript.quora.com/understanding-this-once-and-for-all)
 
 #### Java
 - [x] [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208/ref=pd_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=CRZ192X55A2DSC25MA4Q)
