@@ -44,3 +44,7 @@
 ## Articles & Blog Posts
 - [ ] [Programming in the 21st Century](http://prog21.dadgum.com/)
 - [ ] [React/Redux Links](https://github.com/markerikson/react-redux-links)
+
+## Talks
+- [x] [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [x] [Bret Victor - Inventing on Principle](https://vimeo.com/36579366)
