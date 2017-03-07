@@ -34,9 +34,8 @@
 - [x] [Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
 - [x] [Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
 - [x] [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
-- [ ] [Learn You Node](https://nodeschool.io/)
+- [ ] [Nodeschool](https://nodeschool.io/)
 - [x] [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
-- [x] [Understanding _this_ once and for all](https://journeyintojavascript.quora.com/understanding-this-once-and-for-all)
 
 #### Java
 - [x] [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208/ref=pd_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=CRZ192X55A2DSC25MA4Q)
@@ -44,6 +43,7 @@
 ## Articles & Blog Posts
 - [ ] [Programming in the 21st Century](http://prog21.dadgum.com/)
 - [ ] [React/Redux Links](https://github.com/markerikson/react-redux-links)
+- [x] [Understanding _this_ once and for all](https://journeyintojavascript.quora.com/understanding-this-once-and-for-all)
 
 ## Talks
 - [x] [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
