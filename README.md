@@ -1,4 +1,11 @@
 # CS/Software Dev Learning Resources
+I began to learn to code in earnest after many years of clumsily putting together personal websites and simple arduino sketches. I'd done several [CodeCademy](http://www.codecademy.com) lessons, but didn't feel like I was gaining a deep understanding of anything. Then, I had an idea for an app I wished existed, and decided to figure out how to build it.
+
+This meant that my first real foray into software was in Java. Not usually the recommended first language, but I think it was the right path for me. I'm generally more comfortable in my knowledge if I know a bit about _why_ things work, and the amount of magic fairy dust sprinkled over javascript (and, I assume, other 'beginner-friendly' langauges like python) made those languages feel more obscured, and actually required more memorization. I was forced to learn about types and interfaces from the get-go, and that procedural knowledge helped me reason about my code and be more comfortable hand-waving over the more declarative javascript I'd encounter later on.
+
+Another bonus of learning Java first is that it tends to be used in beginning CS material, so I was able to take courses like [Princeton's Algorithms I & II](https://www.coursera.org/learn/algorithms-part1) (highly recommended) and implement the examples.
+
+I'm now mainly a javascript developer working with React/React Native/Node, but I still love learning about CS fundamentals, algorithms, design patterns, etc. The following is a personal checklist of resources that either have been especially helpful to me or have been recommended by multiple sources.
 
 ### Algortihms & Design Patterns
 - [ ] [Algorithms (Princeton)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=sr_1_1?ie=UTF8&qid=1487191473&sr=8-1&keywords=algorithms+sedgewick)
