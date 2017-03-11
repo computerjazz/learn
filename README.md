@@ -3,7 +3,7 @@ I began to learn to code after several years of tinkering with personal websites
 
 This meant that my first real foray into software was with Java — not usually the recommended first language, but I think it was the right path for me. I'm generally more comfortable in my knowledge if I know a bit about _why_ things work, and the amount of magic fairy dust sprinkled over javascript (and, I assume, other 'beginner-friendly' langauges like python) made those languages feel more obscured, relying on memorization instaed of reasoning. 
 
-With Java, I was forced to learn about types, interfaces, and other safety measures, and the procedural knowledge I picked up helped me reason about my code and be more comfortable accepting the more declarative javascript I'd encounter later on, but was forgiving enough that I didn't have to worry about more 'bare-metal' things like memory management.
+With Java, I was forced to learn about types, interfaces, and other safety measures, and the procedural knowledge I picked up helped me reason about my code and be more comfortable accepting the more declarative javascript I'd encounter later on. The language was also forgiving enough that I didn't have to worry about more 'bare-metal' things like memory management.
 
 Another bonus of learning Java first is that it tends to be used in beginning CS material, so I was able to take courses like [Princeton's (excellent) Algorithms I & II](https://www.coursera.org/learn/algorithms-part1) and implement the examples and assignments.
 
