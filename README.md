@@ -7,7 +7,7 @@ I'm generally language-agnostic, but what I liked about learning Java first was 
 
 Another bonus of learning Java first is that it tends to be used in beginning CS material, so I was able to take courses like [Princeton's (excellent) Algorithms I & II](https://www.coursera.org/learn/algorithms-part1) and implement the examples and assignments.
 
-I'm now mainly a javascript developer working with React/React Native/Node, but I still love learning about CS fundamentals, algorithms, design patterns, etc. The following is a personal checklist of resources that either have been especially helpful to me or have been recommended by multiple sources.
+I'm now mainly a javascript developer working with React/React Native/Node, but I still love learning about CS fundamentals, algorithms, design patterns, etc. The following is a personal checklist of resources that have been especially helpful to me or have been recommended by multiple sources.
 
 ### Algortihms & Design Patterns
 - [ ] [Algorithms (Princeton)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=sr_1_1?ie=UTF8&qid=1487191473&sr=8-1&keywords=algorithms+sedgewick)
