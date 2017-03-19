@@ -56,6 +56,10 @@ I'm now mainly a javascript developer working with React/React Native/Node, but 
 - [x] [An introduction to how JavaScript package managers work](https://medium.freecodecamp.com/javascript-package-managers-101-9afd926add0a#.4fa1bk7eu)
 - [x] [Explaining public-key cryptography to non-geeks](https://medium.com/@vrypan/explaining-public-key-cryptography-to-non-geeks-f0994b3c2d5#.sx0wi3jis)
 
+## Code challenges
+- [ ] [LeetCode](http://www.leetcode.com)
+- [ ] [Project Euler](http://www.projecteuler.net)
+
 ## Talks
 - [x] [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [x] [Bret Victor - Inventing on Principle](https://vimeo.com/36579366)
