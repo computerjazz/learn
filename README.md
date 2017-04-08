@@ -45,6 +45,7 @@ I'm now mainly a javascript developer working with React/React Native/Node, but 
 - [x] [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 - [ ] [Nodeschool](https://nodeschool.io/)
 - [x] [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
+- [ ] [Eloquent Javascript](http://eloquentjavascript.net/)
 
 #### Java
 - [x] [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208/ref=pd_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=CRZ192X55A2DSC25MA4Q)
