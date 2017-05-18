@@ -1,16 +1,16 @@
 # CS/Software Dev Learning Resources
-I began to learn to code in earnest after many years of tinkering with personal websites and simple arduino sketches. I'd completed several [CodeCademy](http://www.codecademy.com) lessons, but didn't feel like I was gaining a deep understanding of anything. Then I had an idea for an [Android app I wished existed](https://play.google.com/store/apps/details?id=com.danielmerrill.defind&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) and decided to figure out how to build it.
+I began to learn to code in earnest after many years of tinkering with personal websites and simple arduino sketches. Then I had an idea for an [Android app I wished existed](https://play.google.com/store/apps/details?id=com.danielmerrill.defind&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) and decided to figure out how to build it.
 
-This meant that my first real foray into software was with Java — not usually the recommended first language, but I think it was the right path for me. I'm generally more comfortable in my knowledge if I know a bit about _why_ things work, and the amount of magic fairy dust sprinkled over javascript (and, I assume, other 'beginner-friendly' langauges like python) made those languages feel more obscured from what was going on under the hood, which felt like an impediment to understanding. 
+This meant my first real foray into software was in Java — not usually the recommended first language, but I think it was the right path for me. I like to know a bit about _why_ things work, and the amount of magic fairy dust sprinkled over javascript (and, I assume, other 'beginner-friendly' langauges like python) made those languages feel more obscured from what was going on under the hood, which felt like an impediment to understanding. 
 
-I'm generally language-agnostic, but what I liked about learning Java first was that I was forced to learn about types, interfaces, and other safety measures that are critical in building big projects. The procedural knowledge I picked up helped me reason about my code and be more comfortable with the looser javascript I'd encounter later on. The language was also forgiving enough that I didn't have to worry about more 'bare-metal' things like manual memory management (which is still on my to-do list to learn).
+I read a few Java books (see below) and learned about types, interfaces, and other safety measures that are critical in building big projects. The procedural knowledge I picked up helped me reason about my code and feel more confident when I later encountered looser javascript. Java is forgiving enough that I didn't have to worry about more 'bare-metal' things like manual memory management (which is still on my to-do list to learn).
 
-Another bonus of learning Java first is that it tends to be used in beginning CS material, so I was able to take courses like [Princeton's (excellent) Algorithms I & II](https://www.coursera.org/learn/algorithms-part1) and implement the examples and assignments.
+Another bonus of learning Java first is that it tends to be used in beginning CS material, so I was able to take courses like [Princeton's Algorithms I & II](https://www.coursera.org/learn/algorithms-part1) and implement the examples and assignments.
 
-I'm now mainly a javascript developer working with React/React Native/Node, but I still love learning about CS fundamentals, algorithms, design patterns, etc. The following is a personal checklist of resources that have been especially helpful to me or have been recommended by multiple sources.
+I'm now a software developer working in a JS stack with React/React Native/Node, but I still love learning about CS fundamentals, algorithms, design patterns, etc. The following is a personal checklist of resources that have been especially helpful to me or have been recommended by multiple sources.
 
 ### Algortihms & Design Patterns
-- [ ] [Algorithms (Princeton)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=sr_1_1?ie=UTF8&qid=1487191473&sr=8-1&keywords=algorithms+sedgewick)
+- [x] [Algorithms (Princeton)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=sr_1_1?ie=UTF8&qid=1487191473&sr=8-1&keywords=algorithms+sedgewick)
 - [ ] [Introduction to Algorithms (MIT Press)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=sr_1_1?ie=UTF8&qid=1487191546&sr=8-1&keywords=algorithms+MIT)
 - [x] [The Algorithm Design Manual (Skiena)](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693)
 - [ ] [Design Patterns: Elements of Reusable Object-Oriented Software (GoF)](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?s=books&ie=UTF8&qid=1486752102&sr=1-1&keywords=design+patterns)
@@ -43,9 +43,9 @@ I'm now mainly a javascript developer working with React/React Native/Node, but 
 - [x] [Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
 - [x] [Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
 - [x] [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
-- [ ] [Nodeschool](https://nodeschool.io/)
+- [x] [Nodeschool](https://nodeschool.io/)
 - [x] [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
-- [ ] [Eloquent Javascript](http://eloquentjavascript.net/)
+- [x] [Eloquent Javascript](http://eloquentjavascript.net/)
 
 #### Java
 - [x] [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208/ref=pd_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=CRZ192X55A2DSC25MA4Q)
