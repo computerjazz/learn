@@ -1,9 +1,9 @@
 # CS/Software Dev Learning Resources
 I began to learn to code in earnest after many years of tinkering with personal websites and simple arduino sketches. Then I had an idea for an [Android app I wished existed](https://play.google.com/store/apps/details?id=com.danielmerrill.defind&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) and decided to figure out how to build it.
 
-This meant my first real foray into software was in Java — not usually the recommended first language, but I think it was the right path for me. I like to know a bit about _why_ things work, and the amount of magic fairy dust sprinkled over javascript (and, I assume, other 'beginner-friendly' langauges like python) made those languages feel more obscured from what was going on under the hood, which felt like an impediment to understanding. 
+This meant my first real foray into software was in Java — not usually the recommended first language, but I think it was the right path for me. I like to know a bit about _why_ things work, and the amount of built-in language features in javascript (and, I assume, other 'beginner-friendly' langauges like python) made it feel more obscured from what was going on under the hood, which felt like an impediment to true understanding. 
 
-I read a few Java books (see below) and learned about types, interfaces, and other safety measures that are critical in building big projects. The procedural knowledge I picked up helped me reason about my code and feel more confident when I later encountered looser javascript. Java is forgiving enough that I didn't have to worry about more 'bare-metal' things like manual memory management (which is still on my to-do list to learn).
+I read a few Java books and learned about types, interfaces, and other safety measures that are critical in building big projects. The procedural knowledge I picked up helped me reason about my code and feel more confident when I later encountered looser javascript. Java is still forgiving enough that I didn't have to worry about more 'bare-metal' things like manual memory management (which is still on my to-do list to learn).
 
 Another bonus of learning Java first is that it tends to be used in beginning CS material, so I was able to take courses like [Princeton's Algorithms I & II](https://www.coursera.org/learn/algorithms-part1) and implement the examples and assignments.
 
@@ -47,8 +47,9 @@ I'm now a software developer working in a JS stack with React/React Native/Node,
 - [x] [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 - [x] [Eloquent Javascript](http://eloquentjavascript.net/)
 
-#### Java
+#### Java/Android
 - [x] [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208/ref=pd_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=CRZ192X55A2DSC25MA4Q)
+- [x] [Android Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/android-programming/)
 
 ## Articles & Blog Posts
 - [ ] [Programming in the 21st Century](http://prog21.dadgum.com/)
