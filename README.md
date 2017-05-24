@@ -53,6 +53,7 @@ I'm now a software developer working in a JS stack with React/React Native/Node,
 
 ## Articles & Blog Posts
 - [ ] [Programming in the 21st Century](http://prog21.dadgum.com/)
+- [x] [Learn Redux by coding a mini-Redux](http://blog.jakoblind.no/2017/03/13/learn-redux-by-coding-a-mini-redux/)
 - [ ] [React/Redux Links](https://github.com/markerikson/react-redux-links)
 - [x] [Understanding _this_ once and for all](https://journeyintojavascript.quora.com/understanding-this-once-and-for-all)
 - [x] [An introduction to how JavaScript package managers work](https://medium.freecodecamp.com/javascript-package-managers-101-9afd926add0a#.4fa1bk7eu)
