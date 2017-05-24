@@ -64,3 +64,7 @@ I'm now a software developer working in a JS stack with React/React Native/Node,
 ## Talks
 - [x] [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [x] [Bret Victor - Inventing on Principle](https://vimeo.com/36579366)
+
+## Podcasts
+- [x] [Software Engineering Daily](http://www.softwareengineeringdaily.com)
+- [x] [JavaScript Air](https://javascriptair.com/)
