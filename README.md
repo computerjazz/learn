@@ -63,6 +63,9 @@ I'm now a software developer working in a JS stack with React/React Native/Node,
 - [ ] [LeetCode](http://www.leetcode.com)
 - [ ] [Project Euler](http://www.projecteuler.net)
 
+## Git
+- [ ] [Learn Git Branching](http://learngitbranching.js.org/)
+
 ## Talks
 - [x] [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [x] [Bret Victor - Inventing on Principle](https://vimeo.com/36579366)
