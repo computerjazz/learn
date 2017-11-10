@@ -1,13 +1,9 @@
 # CS/Software Dev Learning Resources
-I began to learn to code in earnest after many years of tinkering with personal websites and simple arduino sketches. Then I had an idea for an [Android app I wished existed](https://play.google.com/store/apps/details?id=com.danielmerrill.defind&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) and decided to figure out how to build it.
+I began to learn to code in earnest after many years of tinkering with personal websites and simple arduino sketches. Then I had an idea for an [Android app I wished existed](https://play.google.com/store/apps/details?id=com.danielmerrill.defind&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) and decided to figure out how to build it. 
 
-This meant my first real foray into software was in Java — not usually the recommended first language, but I think it was the right path for me. I like to know a bit about _why_ things work, and the amount of built-in language features in javascript (and, I assume, other 'beginner-friendly' langauges like python) made it feel more obscured from what was going on under the hood, which felt like an impediment to true understanding. 
+One bonus of learning Java first is that it tends to be used in beginning CS material, so I was able to take courses like [Princeton's Algorithms I & II](https://www.coursera.org/learn/algorithms-part1) and implement the examples and assignments.
 
-I read a few Java books and learned about types, interfaces, and other safety measures that are critical in building big projects. The procedural knowledge I picked up helped me reason about my code and feel more confident when I later encountered looser javascript. Java is still forgiving enough that I didn't have to worry about more 'bare-metal' things like manual memory management (which is still on my to-do list to learn).
-
-Another bonus of learning Java first is that it tends to be used in beginning CS material, so I was able to take courses like [Princeton's Algorithms I & II](https://www.coursera.org/learn/algorithms-part1) and implement the examples and assignments.
-
-I'm now a software developer working in a JS stack with React/React Native/Node, but I still love learning about CS fundamentals, algorithms, design patterns, etc. The following is a personal checklist of resources that have been especially helpful to me or have been recommended by multiple sources.
+I'm now a software developer working with React/React Native/Node, but I still love learning about CS fundamentals, algorithms, design patterns, etc. The following is a personal checklist of resources that have been especially helpful to me or have been recommended by multiple sources.
 
 ### Algortihms & Design Patterns
 - [x] [Algorithms (Princeton)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=sr_1_1?ie=UTF8&qid=1487191473&sr=8-1&keywords=algorithms+sedgewick)
