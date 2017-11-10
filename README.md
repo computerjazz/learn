@@ -24,7 +24,7 @@ I'm now a software developer working in a JS stack with React/React Native/Node,
 - [ ] [Harvard: cs50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 - [ ] [Let's Build a Compiler!](http://compilers.iecc.com/crenshaw/)
 
-### Best Practices
+### Code Style/Team Dynamics
 - [x] [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [x] [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=pd_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=J5R0F4PC8XBE3TTZDP6Z)
 - [ ] [Code Complete](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
@@ -65,6 +65,7 @@ I'm now a software developer working in a JS stack with React/React Native/Node,
 
 ## Git
 - [x] [Learn Git Branching](http://learngitbranching.js.org/)
+- [x] [The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
 
 ## Talks
 - [x] [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
@@ -73,3 +74,5 @@ I'm now a software developer working in a JS stack with React/React Native/Node,
 ## Podcasts
 - [x] [Software Engineering Daily](http://www.softwareengineeringdaily.com)
 - [x] [JavaScript Air](https://javascriptair.com/)
+- [x] [Syntax](http://styntax.fm)
+- [x] [Indie Hackers](https://www.indiehackers.com/)
