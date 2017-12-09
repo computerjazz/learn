@@ -42,6 +42,7 @@ I'm now a software developer working with React/React Native/Node, but I still l
 - [x] [Nodeschool](https://nodeschool.io/)
 - [x] [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 - [x] [Eloquent Javascript](http://eloquentjavascript.net/)
+- [ ] [Functional Light JavaScript](https://github.com/getify/Functional-Light-JS)
 
 #### Java/Android
 - [x] [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208/ref=pd_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=CRZ192X55A2DSC25MA4Q)
