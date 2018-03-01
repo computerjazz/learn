@@ -49,6 +49,7 @@ I'm now a software developer working with React/React Native/Node, but I still l
 - [x] [Android Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/android-programming/)
 
 ## Articles & Blog Posts
+- [x] [What Is Code? (Bloomberg)](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 - [ ] [Programming in the 21st Century](http://prog21.dadgum.com/)
 - [x] [Learn Redux by coding a mini-Redux](http://blog.jakoblind.no/2017/03/13/learn-redux-by-coding-a-mini-redux/)
 - [ ] [React/Redux Links](https://github.com/markerikson/react-redux-links)
